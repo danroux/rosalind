@@ -1,3 +1,6 @@
+# http://stackoverflow.com/questions/4664850/find-all-occurrences-of-a-substring-in-python
+# http://stackoverflow.com/questions/1228299/change-one-character-in-a-string-in-python
+
 import re
 
 def reverse_complement(string):
