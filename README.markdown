@@ -1,6 +1,6 @@
-# Rosalinda problems solutions.
+### Rosalind problems solutions.
 
-### What is Rosalind?
+#### What is Rosalind?
 Rosalind is a platform for learning bioinformatics through problem solving.
 
 http://rosalind.info/problems/as-table/
